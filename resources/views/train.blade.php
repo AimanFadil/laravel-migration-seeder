@@ -16,7 +16,7 @@
 </head>
 
 <body>
-    <h1 class="text-center">TRENI DAL MONDO</h1>
+    <h1 class="text-center text-white">TRENI DAL MONDO</h1>
     <div class="container">
         <div class="row">
             <div class="content">
